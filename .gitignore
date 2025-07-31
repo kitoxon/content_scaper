@@ -1,0 +1,14 @@
+/chunks
+/chunks_july
+/csv
+/fixed_outputs
+/logs
+/logs_july
+/output
+/outputs
+/outputs_july
+/venv
+article_categorizer.log
+article_classifier.log
+rescrape_mojibake.log
+run_ps_ng.log
